@@ -33,14 +33,15 @@ I will analyze your site's strengths and weaknesses, offering recommendations to
 2. You get an advance action plan.
 Please Order for your Full SEO Audit Report with feel free.
 
-# BASIC package                                                     
-Delivery:Within Delivery:2-day delivery                                                                                
+# BASIC package 
+Price:US$25  
 Service:A complete technical+on-page SEO report and an action plan.
+Within Delivery:2-day delivery  
 Site SEO audit
 Index optimization
 Xml sitemap
                                                                                                                  
-# STANDARD                                                                                                                                   
+# STANDARD package                                                                                                                                    
 Price:US$45                                                                                                                                                       
 Services:Basic package +Keyword research + Action Plan        
 Within Delivery:4-day delivery  
@@ -48,7 +49,7 @@ Site SEO audit
 Index optimization
 Xml sitemap
 
-# PREMIUM
+# PREMIUM  package  
 Price:US$65
 Service:Standard package+ competitor top keyword + competitor analysis and an advance action plan
 Within Delivery:4-day delivery 
@@ -70,8 +71,9 @@ Penalty removal
 
 # Do you guarantee that my website will rank higher?
 # Answer:This service mainly focuses on the SEO strategy to identify the issues and action plan.If you solved the issues,your website's ranking on search engine results 
-# pages InsoAllah.However, I can't offer a direct guarantee, SEO results depend on various factors, competition, and algorithm updates.
+# pages InsoAllah.However,I can't offer a direct guarantee, SEO results depend on various factors, competition, and algorithm updates.
+
 
 # How do I get started?
-# It's simple, with two steps: 1. Order a website audit by sharing your website URL. I'll send you a complete report with a personalized SEO strategy and a 
-# comprehensive action plan. 2. Following the audit, we will set a meeting to discuss monthly SEO expenditures and timescale for top rankings.
+# It's simple, with two steps: a) Order a website audit by sharing your website URL. I'll send you a complete report with a personalized SEO strategy and a 
+# comprehensive action plan. b) Following the audit, we will set a meeting to discuss monthly SEO expenditures and timescale for top rankings.
