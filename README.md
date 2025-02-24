@@ -3,6 +3,8 @@ I have 3 years over experience in SEO releted work. Especially I expert in On-pa
 
 #[Contact with me](https://wa.me/+8801609307301)
 
+# I will provide full SEO audit report technically and manually.
+
 #About this Service
 A Search Engine Optimization analysis is the first crucial step toward building a strong, technically sound website. I will provide a full SEO audit report technically and manually by using paid tools that will help find out your actionable insights and clear guidelines for optimization.
 I will analyze your site's strengths and weaknesses, offering recommendations to boost rankings, drive traffic, and increase sales
